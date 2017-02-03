@@ -1,4 +1,4 @@
 
 # hello-world
-+
-+Hi I'm Kita.
+
+Hi I'm Kita.
